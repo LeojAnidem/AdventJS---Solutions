@@ -1,0 +1,29 @@
+{
+  "name": "adventjs",
+  "version": "1.0.0",
+  "description": "Solutions challenges of MiduDev - AdventJS",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LeojAnidem/AdventJS---Solutions.git"
+  },
+  "keywords": [
+    "adventJS",
+    "arrays",
+    "JavaScript",
+    "MiduDev"
+  ],
+  "author": "Leoj Anidem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeojAnidem/AdventJS---Solutions/issues"
+  },
+  "homepage": "https://github.com/LeojAnidem/AdventJS---Solutions#readme",
+  "dependencies": {
+    "nesting": "^0.1.0"
+  }
+}
