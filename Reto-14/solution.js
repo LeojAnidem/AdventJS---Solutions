@@ -1,5 +1,5 @@
 const missingReindeer = ids => {
-    ids = ids.sort((a,b) => a > b ? 1 : -1);
+    ids = ids.sort((a,b) => a - b);
 
     for (let id = 0; id < ids.length; id++) {
         if (ids[id] != id) return id;
