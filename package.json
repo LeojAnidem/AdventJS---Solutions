@@ -5,6 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "git-allok" : "git add . && git commit && git push origin main",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
